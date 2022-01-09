@@ -1,0 +1,94 @@
+#main{
+  background-color: white;
+}
+
+#big-box{
+  background-color: lightgrey;
+  border-radius:15px;
+}
+#page-title{
+  text-align:center;
+  padding-top: 30px;
+  padding-bottom: 5px;
+  font-family: Roboto, sans-serif, Times New Roman;
+  font-weight: 700;
+}
+
+#subtitle{
+  text-align: center;
+  font-family: Roboto, sans-serif;
+  padding-bottom: 15px;
+}
+
+#img-div{
+  background-color: white;
+  margin:20px;
+}
+
+#image{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 70%;
+  height: auto;
+  padding: 20px;
+  filter: saturate(50%);
+}
+
+#img-caption{
+  text-align: center;
+  font-family: Roboto, Times New Roman;
+  font-size: 16px;
+  padding-bottom: 20px;
+  z-index:2;
+}
+
+#second-title{
+  text-align:center;
+  font-family: Roboto, times new roman;
+  padding-top:20px;
+}
+
+p{
+  font-family: roboto, times new roman;
+}
+
+ul{
+  font-family: Roboto, Tims new roman;
+  font-weight: 300;
+}
+
+#tribute-info{
+  display: table; 
+  margin: 0 auto;
+  text-align: left;
+  line-height: 30px;
+  max-width: 60%;
+  padding-bottom: 25px;
+}
+
+#quote{
+  text-align: left;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  margin: auto;
+  max-width: 60%;
+}
+
+#quote2{
+  text-align: left;
+  padding-bottom: 40px;
+  margin: 0 auto;
+  max-width: 60%;
+}
+
+#medium-link{
+  text-align: center;
+  padding: 20px;
+  margin: auto;
+  max-width: 75%;
+}
+
+#tribute-link:hover{
+  background-color: white;
+}
